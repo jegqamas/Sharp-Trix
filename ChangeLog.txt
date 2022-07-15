@@ -1,0 +1,7 @@
+
+
+Version 1.01
+
+* Added Doubling Rule support.
+* Added abillity to replay the Trix Sound Track via F1 key.
+* Fixed Normal AI dealing: the ai never choose "Queens" when it's dealing until that mode is the last one he can choose.
